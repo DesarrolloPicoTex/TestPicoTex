@@ -9,3 +9,4 @@ fields:
   label: text
 pages:
 - content/ads.md
+- content/ads.md-copy.md
