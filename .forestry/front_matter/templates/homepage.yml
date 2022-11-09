@@ -1,0 +1,20 @@
+---
+label: homepage
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: theme_version
+  label: theme_version
+- type: field_group
+  name: cascade
+  label: cascade
+  fields:
+  - type: file
+    name: featured_image
+    label: featured_image
