@@ -18,5 +18,28 @@ fields:
   - type: file
     name: featured_image
     label: featured_image
+- name: product
+  type: file
+  config:
+    maxSize: 64
+  label: product
+- name: product_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: product description
+- name: form
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: form
 pages:
 - content/en/_index.md
