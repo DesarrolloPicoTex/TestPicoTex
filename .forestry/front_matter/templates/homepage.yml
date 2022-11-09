@@ -18,6 +18,15 @@ fields:
   - type: file
     name: featured_image
     label: featured_image
+- name: text_copy
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Text Copy
 - name: product
   type: file
   config:
@@ -32,14 +41,5 @@ fields:
     schema:
       format: markdown
   label: product description
-- name: form
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: form
 pages:
 - content/en/_index.md
