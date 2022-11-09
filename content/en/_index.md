@@ -6,7 +6,8 @@ cascade:
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 product: "/uploads/screenshot_20221106-201954.png"
 product_description: descripción del producto
-form: '{{< form-contact action="https://example.com"  >}}'
+form: '{{< form-contact action="[https://example.com](https://example.com "https://example.com")"
+  >}}'
 
 ---
 Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
