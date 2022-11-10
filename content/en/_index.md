@@ -1,10 +1,11 @@
 ---
-title: 'Ananke: a Hugo Theme'
-description: The last theme you'll ever need. Maybe.
+title: El palo más resistente
+description: Los profesionales de la limpieza, necesitan un palo acorde a sus necesidades.
+  El palo de fibra de vidrio, resiste todo tipo de trabajos.
 theme_version: 2.8.2
 cascade:
-  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-product: ''
+  featured_image: "/uploads/_mg_3281_red4.jpg"
+product: "/uploads/004-404.jpg"
 product_description: |-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing tristique risus nec feugiat in. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. A erat nam at lectus. Sit amet dictum sit amet justo donec enim diam vulputate. Vulputate mi sit amet mauris commodo quis. Elit ut aliquam purus sit amet luctus venenatis lectus. Urna duis convallis convallis tellus id interdum velit laoreet. Ullamcorper sit amet risus nullam eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Varius duis at consectetur lorem donec massa sapien. Hendrerit gravida rutrum quisque non tellus orci ac auctor augue. Morbi quis commodo odio aenean sed. Porttitor rhoncus dolor purus non. Felis imperdiet proin fermentum leo vel. Tempus quam pellentesque nec nam aliquam.
   Ultrices dui sapien eget mi proin sed libero enim. Semper risus in hendrerit gravida. Cum sociis natoque penatibus et magnis dis parturient montes nascetur. Ullamcorper eget nulla facilisi etiam. Nunc scelerisque viverra mauris in aliquam sem. Tortor dignissim convallis aenean et tortor at risus. Risus ultricies tristique nulla aliquet. Vivamus arcu felis bibendum ut tristique et egestas quis ipsum. Aliquet nibh praesent tristique magna sit amet purus. Urna et pharetra pharetra massa massa ultricies mi. Etiam non quam lacus suspendisse faucibus interdum. Orci porta non pulvinar neque laoreet suspendisse. Eu volutpat odio facilisis mauris sit amet massa vitae. Euismod lacinia at quis risus sed vulputate odio. Duis ut diam quam nulla. Massa id neque aliquam vestibulum morbi blandit cursus risus.
