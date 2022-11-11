@@ -1,5 +1,5 @@
 ---
-title: El palo más resistente
+title: 'El palo más resistente '
 description: Los profesionales de la limpieza, necesitan un palo acorde a sus necesidades.
   El palo de fibra de vidrio, resiste todo tipo de trabajos.
 theme_version: 2.8.2
